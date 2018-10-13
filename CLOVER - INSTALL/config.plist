@@ -483,6 +483,8 @@
 				<data>
 				AABgAgAAUAE=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -500,6 +502,8 @@
 				AgQKAAAIAACHAQAAAwYKAAAEAACHAQAA/wAAAAEAAAAg
 				AAAA
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -518,6 +522,8 @@
 				AgQKAAAIAACHAQAAAwYKAAAEAACHAQAA/wAAAAEAAAAg
 				AAAA
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -536,6 +542,8 @@
 				AgQKAAAIAACHAQAAAwYKAAAEAACHAQAA/wAAAAEAAAAg
 				AAAA
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -553,6 +561,8 @@
 				<data>
 				RiV1VCUwNHgA
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleBacklight</string>
 				<key>Replace</key>
@@ -569,6 +579,8 @@
 				<data>
 				g32MEA==
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.13.0,10.13.1,10.13.2,10.13.3</string>
 				<key>Name</key>
@@ -631,15 +643,11 @@
 		<string>0x1A</string>
 		<key>ProductName</key>
 		<string>MacBookPro14,3</string>
-		<key>SerialNumber</key>
-		<string>C02TP23RHTD5</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
-		<key>CustomUUID</key>
-		<string>E8886F44-2D53-4B66-A2CB-EC2539264112</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 	</dict>
