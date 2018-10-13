@@ -25,3 +25,4 @@ https://github.com/acidanthera/Lilu
 https://github.com/acidanthera/WhateverGreen
 https://github.com/chris1111/VoodooHDA-2.9.0-Clover-V12
 https://github.com/RehabMan
+https://github.com/acidanthera/AppleALC
