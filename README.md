@@ -9,6 +9,8 @@ delete = AppleIntelLpssI2CController.kext + AppleIntelLpssI2C.kext in S/L/E
 run kext utility
 3- for install sound -->
 install VoodooHDA = UEFI mode
+or 
+use applealc , working with bug !!
 
 Thank a lot :
 ----------------------------------------------
